@@ -1,0 +1,6 @@
+@FormulaOne.Chat_HostAddress = http://localhost:5110
+
+GET {{FormulaOne.Chat_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
